@@ -908,7 +908,7 @@
     "DND5E.RollSituationalBonus": "环境加值？",
     "DND5E.Movement": "移动",
     "DND5E.MovementConfig": "配置移动速度",
-    "DND5E.MovementConfigHint": "为该生物配置移动速度和特殊移动属性。",
+    "DND5E.MovementConfigHint": "配置移动速度和特殊移动属性。",
     "DND5E.MovementWalk": "步行",
     "DND5E.MovementBurrow": "掘穴",
     "DND5E.MovementClimb": "攀爬",
